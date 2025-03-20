@@ -1,4 +1,4 @@
-# Homework08
+# Homework08 - Complete
 
 Exercises to practice unsupervised learning with clustering
 
